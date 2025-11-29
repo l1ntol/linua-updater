@@ -1,81 +1,89 @@
-Linua Updater v1.4.7
-====================
+About
 
-РУССКАЯ ВЕРСИЯ
+Linua Updater is a utility that automatically downloads and installs DLC for The Sims 4.
+It is designed to remove the need for manual file handling and make the update process simple, clear, and accessible for all users.
 
-🎮 Автоматический установщик DLC для The Sims 4
+The tool supports all game distributions: Steam, EA App, Epic Games, and custom paths.
 
-🚀 КАК ИСПОЛЬЗОВАТЬ:
-1. Запустите Linua_Updater.exe
-2. Выберите папку с The Sims 4
-3. Нажмите "Update" для установки 101 DLC
+Features
 
-📁 ПУТИ К ИГРЕ:
-• Steam: C:\Program Files (x86)\Steam\steamapps\common\The Sims 4\
-• EA App: C:\Program Files\EA Games\The Sims 4\
+automatic download and installation of supported DLC
 
-❓ ЧАСТО ЗАДАВАЕМЫЕ ВОПРОСЫ:
+proper handling of multi-part archives
 
-Q: Нужен ли VPN для работы?
-A: Нет! Программа использует безопасные HTTPS-соединения.
+integrity verification
 
-Q: Антивирус блокирует программу!
-A: Это ложное срабатывание. Добавьте программу в исключения антивируса.
+recovery of incomplete or corrupted downloads
 
-Q: DLC не скачиваются, что делать?
-A: 1. Отключите антивирус на время установки
-   2. Запустите программу от имени администратора
-   3. Проверьте подключение к интернету
+support for any installation directory
 
-Q: Где найти игру после установки?
-A: Игра остается в выбранной вами папке. DLC устанавливаются автоматически.
+stable HTTPS requests
 
-Q: Это бесплатная программа?
-A: ДА! Если вы заплатили за эту программу - вас обманули!
+clean and minimal interface
 
-⚠️ ВАЖНО:
-• The Sims 4 должна быть уже установлена
-• Требуется стабильное интернет-соединение
-• Windows 7/10/11
+How to Use
 
-================================================================
+Run Linua_Updater.exe.
 
-ENGLISH VERSION
+Select your installed The Sims 4 folder.
 
-🎮 Automatic DLC installer for The Sims 4
+Click Update.
 
-🚀 HOW TO USE:
-1. Run Linua_Updater.exe
-2. Select your The Sims 4 folder
-3. Click "Update" to install 101 DLCs
+Wait until all files finish installing.
 
-📁 GAME PATHS:
-• Steam: C:\Program Files (x86)\Steam\steamapps\common\The Sims 4\
-• EA App: C:\Program Files\EA Games\The Sims 4\
+Default Game Locations
 
-❓ FREQUENTLY ASKED QUESTIONS:
+Steam
 
-Q: Do I need VPN?
-A: No! The program uses secure HTTPS connections.
+C:\Program Files (x86)\Steam\steamapps\common\The Sims 4\
 
-Q: Antivirus detects the program as threat!
-A: This is a false positive. Add the program to your antivirus exceptions.
 
-Q: DLC won't download, what to do?
-A: 1. Disable antivirus temporarily
-   2. Run as administrator
-   3. Check your internet connection
+EA App
 
-Q: Where to find the game after installation?
-A: The game remains in your selected folder. DLC installs automatically.
+C:\Program Files\EA Games\The Sims 4\
 
-Q: Is this free software?
-A: YES! If you paid for this program - you were scammed!
 
-⚠️ IMPORTANT:
-• The Sims 4 must be pre-installed
-• Stable internet connection required
-• Windows 7/10/11
+Epic Games
 
----
-Linua Updater v1.4.7 | https://github.com/l1ntol/linua-updater
+C:\Program Files\Epic Games\TheSims4\
+
+Troubleshooting
+DLC not downloading
+
+– temporarily disable antivirus or firewall
+– run the program as Administrator
+– check your network connection
+– retry (downloads resume automatically)
+
+Empty DLC list
+
+– incorrect game path
+– no internet connection
+– GitHub may be temporarily unavailable
+
+“Corrupted file”
+
+– interrupted download
+– antivirus removed temporary data
+– regional restrictions may apply
+
+Program closes immediately
+
+– run as Administrator
+– ensure the EXE is extracted from ZIP
+– ensure the folder is writable
+
+Requirements
+
+Windows 7 / 10 / 11
+
+installed version of The Sims 4
+
+stable internet connection
+
+write permissions to the selected directory
+
+Notes
+
+Linua Updater is not affiliated with Electronic Arts or Maxis.
+The software is free. If someone charged you for it, they scammed you.
